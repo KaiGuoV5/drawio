@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.8.0">
+  <diagram name="第 1 页" id="f_hHqoODYuRUCBq2NukQ">
+    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RH62x4vmsc4nIEurWx06-7" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.525;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="201" y="479.9999999999999" as="sourcePoint" />
+            <mxPoint x="398" y="479.9999999999999" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-9" value="MR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RH62x4vmsc4nIEurWx06-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0182" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-10" value="增量接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-13" value="libs" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
+          <mxGeometry x="180" y="400" width="40" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-14" value="CI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
+          <mxGeometry x="380" y="400" width="40" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-15" value="apps" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
+          <mxGeometry x="580" y="400" width="40" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.5" y="560" as="sourcePoint" />
+            <mxPoint x="399.5" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-17" value="MR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RH62x4vmsc4nIEurWx06-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.065" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-18" value="适配接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-20" value="CI Pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RH62x4vmsc4nIEurWx06-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.065" y="-1" relative="1" as="geometry">
+            <mxPoint x="-11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-24" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.525;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="400" y="720" as="sourcePoint" />
+            <mxPoint x="600" y="720" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-25" value="CI Failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RH62x4vmsc4nIEurWx06-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.0182" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-27" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.525;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="200" y="800" as="sourcePoint" />
+            <mxPoint x="397" y="800" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH62x4vmsc4nIEurWx06-28" value="merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RH62x4vmsc4nIEurWx06-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.0182" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
