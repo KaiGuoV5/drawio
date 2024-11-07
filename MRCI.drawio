@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2">
   <diagram name="第 1 页" id="1sIVoMQkaqm2fVQs5YMG">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-1" target="Zoep2TAbPsNtluDxeeqk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-1" value="MR&lt;div&gt;OPEN/REOPEN&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-2" target="Zoep2TAbPsNtluDxeeqk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-18" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-5">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-2" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-2" value="MR&lt;span style=&quot;background-color: initial;&quot;&gt;标题及描述&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否规范&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-4" target="Zoep2TAbPsNtluDxeeqk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-19" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-7">
+          <mxGeometry x="-0.05" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-4" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-4" value="代码预合并&lt;div&gt;是否成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-6" target="Zoep2TAbPsNtluDxeeqk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-20" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-9">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-6" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-6" value="代码扫描&lt;div&gt;是否符合要求&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-8" target="Zoep2TAbPsNtluDxeeqk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-21" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-11">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-8" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-8" value="典型lunch编译&lt;div&gt;是否全部成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-10" target="Zoep2TAbPsNtluDxeeqk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-22" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-13">
+          <mxGeometry x="-0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-10" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-10" value="对应板卡&lt;span style=&quot;background-color: initial;&quot;&gt;烧写&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否全部成功&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-12" target="Zoep2TAbPsNtluDxeeqk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-15">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-12" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-12" value="对应板卡&lt;span style=&quot;background-color: initial;&quot;&gt;测试&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否全部成功&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-14" target="Zoep2TAbPsNtluDxeeqk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-24" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-17">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-14" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-14" value="代码审核人数&lt;div&gt;是否达标&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-16" target="Zoep2TAbPsNtluDxeeqk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-39" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zoep2TAbPsNtluDxeeqk-38">
+          <mxGeometry x="0.9185" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-16" value="MR&lt;div&gt;MERGE&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-25" target="Zoep2TAbPsNtluDxeeqk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-25" value="MR&lt;div&gt;CLOSE&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zoep2TAbPsNtluDxeeqk-27" target="Zoep2TAbPsNtluDxeeqk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zoep2TAbPsNtluDxeeqk-27" value="修改" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
